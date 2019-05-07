@@ -31,6 +31,8 @@
 		<meta property="file-as" refines="#title">Short Fiction</meta>
 		<dc:subject id="subject-1">Short stories, American</dc:subject>
 		<dc:subject id="subject-2">Louisiana -- Social life and customs -- Fiction</dc:subject>
+		<meta property="meta-auth" refines="#subject-1">https://www.gutenberg.org/ebooks/160</meta>
+		<meta property="meta-auth" refines="#subject-2">https://www.gutenberg.org/ebooks/160</meta>
 		<meta property="meta-auth" refines="#subject-1">https://www.gutenberg.org/ebooks/46650</meta>
 		<meta property="meta-auth" refines="#subject-2">https://www.gutenberg.org/ebooks/46650</meta>
 		<meta property="se:subject">TAG</meta>
@@ -41,6 +43,8 @@
 		]]></meta>
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-US</dc:language>
+		<dc:source>https://www.gutenberg.org/ebooks/160</dc:source>
+		<dc:source>https://archive.org/details/awakeningthe00choprich</dc:source>
 		<dc:source>https://www.gutenberg.org/ebooks/46650</dc:source>
 		<dc:source>https://archive.org/details/bayoufolk00chopgoog</dc:source>
 		<meta property="se:production-notes">Any special notes about the production of this ebook for future editors/producers? Remove this element if not.</meta>
