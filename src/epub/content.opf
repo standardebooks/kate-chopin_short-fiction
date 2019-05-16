@@ -52,6 +52,8 @@
 		<dc:source>https://archive.org/details/bayoufolk00chopgoog</dc:source>
 		<!-- A Night in Acadie -->
 		<dc:source>https://archive.org/details/nightinacadie00chop</dc:source>
+		<!-- With the Violin -->
+		<dc:source>https://catalog.hathitrust.org/Record/009563304</dc:source>
 		<meta property="se:production-notes">Story order from https://www.katechopin.org/kate-chopins-short-stories-composition-publication-dates/ .</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
