@@ -58,6 +58,8 @@
 		<dc:source>https://catalog.hathitrust.org/Record/008697500</dc:source>
 		<!-- The Dream of an Hour -->
 		<dc:source>https://catalog.hathitrust.org/Record/006057384</dc:source>
+		<!-- A Scrap and a Sketch -->
+		<dc:source>https://catalog.hathitrust.org/Record/012304530</dc:source>
 		<meta property="se:production-notes">Story order from https://www.katechopin.org/kate-chopins-short-stories-composition-publication-dates/ .</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
