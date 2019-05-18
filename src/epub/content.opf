@@ -44,9 +44,6 @@
 		]]></meta>
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-US</dc:language>
-		<!-- The Awakening, and Selected Short Stories -->
-		<dc:source>https://www.gutenberg.org/ebooks/160</dc:source>
-		<dc:source>https://archive.org/details/awakeningthe00choprich</dc:source>
 		<!-- Bayou Folk -->
 		<dc:source>https://www.gutenberg.org/ebooks/46650</dc:source>
 		<dc:source>https://archive.org/details/bayoufolk00chopgoog</dc:source>
