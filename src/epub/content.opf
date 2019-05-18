@@ -100,14 +100,113 @@
 		<item href="images/cover.svg" id="cover.svg" media-type="image/svg+xml" properties="cover-image"/>
 		<item href="images/logo.svg" id="logo.svg" media-type="image/svg+xml"/>
 		<item href="images/titlepage.svg" id="titlepage.svg" media-type="image/svg+xml"/>
+		<item href="text/a-dresden-lady-in-dixie.xhtml" id="a-dresden-lady-in-dixie.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/a-gentleman-of-bayou-teche.xhtml" id="a-gentleman-of-bayou-teche.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/a-lady-of-bayou-st-john.xhtml" id="a-lady-of-bayou-st-john.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/a-matter-of-prejudice.xhtml" id="a-matter-of-prejudice.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/a-night-in-acadie.xhtml" id="a-night-in-acadie.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/a-no-account-creole.xhtml" id="a-no-account-creole.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/a-respectable-woman.xhtml" id="a-respectable-woman.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/a-rude-awakening.xhtml" id="a-rude-awakening.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/a-sentimental-soul.xhtml" id="a-sentimental-soul.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/a-turkey-hunt.xhtml" id="a-turkey-hunt.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/a-very-fine-fiddle.xhtml" id="a-very-fine-fiddle.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/a-visit-to-avoyelles.xhtml" id="a-visit-to-avoyelles.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/a-wizard-from-gettysburg.xhtml" id="a-wizard-from-gettysburg.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/after-the-winter.xhtml" id="after-the-winter.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/at-cheniere-caminada.xhtml" id="at-cheniere-caminada.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/at-the-cadian-ball.xhtml" id="at-the-cadian-ball.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/athenaise.xhtml" id="athenaise.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/azelie.xhtml" id="azelie.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/beyond-the-bayou.xhtml" id="beyond-the-bayou.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/boulot-and-boulotte.xhtml" id="boulot-and-boulotte.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/caline.xhtml" id="caline.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/cavanelle.xhtml" id="cavanelle.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/colophon.xhtml" id="colophon.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+		<item href="text/dead-mens-shoes.xhtml" id="dead-mens-shoes.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/desirees-baby.xhtml" id="desirees-baby.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/endnotes.xhtml" id="endnotes.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/for-marse-chouchoute.xhtml" id="for-marse-chouchoute.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/imprint.xhtml" id="imprint.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+		<item href="text/in-and-out-of-old-natchitoches.xhtml" id="in-and-out-of-old-natchitoches.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/in-sabine.xhtml" id="in-sabine.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/juanita.xhtml" id="juanita.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/la-belle-zoraide.xhtml" id="la-belle-zoraide.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/loka.xhtml" id="loka.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/love-on-the-bon-dieu.xhtml" id="love-on-the-bon-dieu.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/maame-pelagie.xhtml" id="maame-pelagie.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/madame-celestins-divorce.xhtml" id="madame-celestins-divorce.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/mamouche.xhtml" id="mamouche.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/neg-creole.xhtml" id="neg-creole.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/odalie-misses-mass.xhtml" id="odalie-misses-mass.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/old-aunt-peggy.xhtml" id="old-aunt-peggy.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/ozemes-holiday.xhtml" id="ozemes-holiday.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/polydore.xhtml" id="polydore.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/regret.xhtml" id="regret.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/ripe-figs.xhtml" id="ripe-figs.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/tante-cat-rinette.xhtml" id="tante-cat-rinette.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-benitous-slave.xhtml" id="the-benitous-slave.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-dream-of-an-hour.xhtml" id="the-dream-of-an-hour.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-lilies.xhtml" id="the-lilies.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-maid-of-saint-phillippe.xhtml" id="the-maid-of-saint-phillippe.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-night-came-slowly.xhtml" id="the-night-came-slowly.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-return-of-alcibiade.xhtml" id="the-return-of-alcibiade.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/titlepage.xhtml" id="titlepage.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/uncopyright.xhtml" id="uncopyright.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/with-the-violin.xhtml" id="with-the-violin.xhtml" media-type="application/xhtml+xml"/>
 	</manifest>
 	<spine>
 		<itemref idref="titlepage.xhtml"/>
 		<itemref idref="imprint.xhtml"/>
+		<itemref idref="with-the-violin.xhtml"/>
+		<itemref idref="a-no-account-creole.xhtml"/>
+		<itemref idref="for-marse-chouchoute.xhtml"/>
+		<itemref idref="the-maid-of-saint-phillippe.xhtml"/>
+		<itemref idref="a-wizard-from-gettysburg.xhtml"/>
+		<itemref idref="a-rude-awakening.xhtml"/>
+		<itemref idref="a-very-fine-fiddle.xhtml"/>
+		<itemref idref="boulot-and-boulotte.xhtml"/>
+		<itemref idref="love-on-the-bon-dieu.xhtml"/>
+		<itemref idref="beyond-the-bayou.xhtml"/>
+		<itemref idref="after-the-winter.xhtml"/>
+		<itemref idref="the-benitous-slave.xhtml"/>
+		<itemref idref="a-turkey-hunt.xhtml"/>
+		<itemref idref="old-aunt-peggy.xhtml"/>
+		<itemref idref="the-lilies.xhtml"/>
+		<itemref idref="ripe-figs.xhtml"/>
+		<itemref idref="loka.xhtml"/>
+		<itemref idref="at-the-cadian-ball.xhtml"/>
+		<itemref idref="a-visit-to-avoyelles.xhtml"/>
+		<itemref idref="maame-pelagie.xhtml"/>
+		<itemref idref="desirees-baby.xhtml"/>
+		<itemref idref="caline.xhtml"/>
+		<itemref idref="the-return-of-alcibiade.xhtml"/>
+		<itemref idref="in-and-out-of-old-natchitoches.xhtml"/>
+		<itemref idref="mamouche.xhtml"/>
+		<itemref idref="madame-celestins-divorce.xhtml"/>
+		<itemref idref="a-matter-of-prejudice.xhtml"/>
+		<itemref idref="azelie.xhtml"/>
+		<itemref idref="a-lady-of-bayou-st-john.xhtml"/>
+		<itemref idref="la-belle-zoraide.xhtml"/>
+		<itemref idref="at-cheniere-caminada.xhtml"/>
+		<itemref idref="a-gentleman-of-bayou-teche.xhtml"/>
+		<itemref idref="in-sabine.xhtml"/>
+		<itemref idref="a-respectable-woman.xhtml"/>
+		<itemref idref="tante-cat-rinette.xhtml"/>
+		<itemref idref="a-dresden-lady-in-dixie.xhtml"/>
+		<itemref idref="the-dream-of-an-hour.xhtml"/>
+		<itemref idref="the-night-came-slowly.xhtml"/>
+		<itemref idref="juanita.xhtml"/>
+		<itemref idref="cavanelle.xhtml"/>
+		<itemref idref="regret.xhtml"/>
+		<itemref idref="ozemes-holiday.xhtml"/>
+		<itemref idref="a-sentimental-soul.xhtml"/>
+		<itemref idref="odalie-misses-mass.xhtml"/>
+		<itemref idref="polydore.xhtml"/>
+		<itemref idref="dead-mens-shoes.xhtml"/>
+		<itemref idref="athenaise.xhtml"/>
+		<itemref idref="a-night-in-acadie.xhtml"/>
+		<itemref idref="neg-creole.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
 		<itemref idref="uncopyright.xhtml"/>
 	</spine>
