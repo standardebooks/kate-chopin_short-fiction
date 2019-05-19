@@ -66,6 +66,7 @@
 		<meta property="file-as" refines="#author">Chopin, Kate</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Kate_Chopin</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n80008080</meta>
+		<meta property="role" refines="#author" scheme="marc:relators">ann</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="artist">Henri Martin</dc:contributor>
 		<meta property="file-as" refines="#artist">Martin, Henri</meta>
@@ -207,6 +208,7 @@
 		<itemref idref="athenaise.xhtml"/>
 		<itemref idref="a-night-in-acadie.xhtml"/>
 		<itemref idref="neg-creole.xhtml"/>
+		<itemref idref="endnotes.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
 		<itemref idref="uncopyright.xhtml"/>
 	</spine>
