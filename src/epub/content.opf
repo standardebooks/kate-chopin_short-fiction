@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/kate-chopin/short-fiction</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2019-06-05T22:06:53Z</dc:date>
+		<meta property="dcterms:modified">2019-06-05T22:06:53Z</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -39,8 +39,8 @@
 		<meta property="se:subject">Shorts</meta>
 		<dc:description id="description">A collection of Kate Chopin’s short stories, ordered by date of writing.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;Kate Chopin’s most famous work nowadays is the novel &lt;a href="https://standardebooks.org/ebooks/kate-chopin/the-awakening"&gt;&lt;i&gt;The Awakening&lt;/i&gt;&lt;/a&gt;, but at the turn of the last century she was more famous for her short fiction, published in American magazines like the &lt;i&gt;&lt;abbr&gt;St.&lt;/abbr&gt; Louis Post-Dispatch&lt;/i&gt;, &lt;i&gt;Youth’s Companion&lt;/i&gt;, and &lt;i&gt;Vogue&lt;/i&gt;. A prolific writer, over the course of fourteen years she penned nearly a hundred stories, although many didn’t see publication until a new collection was released in 1963. The stories focus on Louisiana life in the 1890s; a setting that she was living in as a resident of New Orleans and Natchitoches. They are told from many different points of view, but always with empathy for the struggles, both big and small, of the protagonists.&lt;/p&gt;
-			&lt;p&gt;This collection contains the forty-nine short stories of Kate Chopin verified to be in the public domain, including &lt;i&gt;Désirée’s Baby&lt;/i&gt; and &lt;i&gt;The Dream of an Hour&lt;/i&gt;. They are presented in the order they were originally written.&lt;/p&gt;
+			&lt;p&gt;Kate Chopin’s most famous work nowadays is the novel &lt;a href="https://standardebooks.org/ebooks/kate-chopin/the-awakening"&gt;&lt;i&gt;The Awakening&lt;/i&gt;&lt;/a&gt;, but at the turn of the last century she was more famous for her short fiction, published in American magazines like the &lt;i&gt;&lt;abbr&gt;St.&lt;/abbr&gt; Louis Post-Dispatch&lt;/i&gt;, &lt;i&gt;Youth’s Companion&lt;/i&gt;, and &lt;i&gt;Vogue&lt;/i&gt;. A prolific writer, over the course of fourteen years she penned nearly a hundred stories, although many didn’t see publication until a new collection was released in 1963. The stories focus on life in 1890s Louisiana, a setting that she was living in as a resident of New Orleans and Natchitoches. They’re told from many different protagonists of view, but always with empathy for the struggles, both big and small, of the protagonists.&lt;/p&gt;
+			&lt;p&gt;This collection contains the forty-nine short stories of Kate Chopin verified to be in the US public domain, including “Désirée’s Baby” and “The Dream of an Hour.” They’re presented in the order they were originally written.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<!-- Bayou Folk -->
@@ -57,8 +57,8 @@
 		<!-- A Scrap and a Sketch -->
 		<dc:source>https://catalog.hathitrust.org/Record/012304530</dc:source>
 		<meta property="se:production-notes">Story order from https://www.katechopin.org/kate-chopins-short-stories-composition-publication-dates/ .</meta>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">134584</meta>
+		<meta property="se:reading-ease.flesch">71.55</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Short_fiction</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/kate-chopin_short-fiction</meta>
 		<dc:creator id="author">Kate Chopin</dc:creator>
@@ -92,6 +92,10 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">trc</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Alex Cabal</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Cabal, Alex</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://alexcabal.com</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="toc.xhtml" id="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
