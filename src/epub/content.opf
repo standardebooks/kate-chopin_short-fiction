@@ -59,7 +59,7 @@
 		<meta property="se:production-notes">Story order from https://www.katechopin.org/kate-chopins-short-stories-composition-publication-dates/ .</meta>
 		<meta property="se:word-count">134584</meta>
 		<meta property="se:reading-ease.flesch">71.55</meta>
-		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Short_fiction</meta>
+		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Kate_Chopin#Works</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/kate-chopin_short-fiction</meta>
 		<dc:creator id="author">Kate Chopin</dc:creator>
 		<meta property="file-as" refines="#author">Chopin, Kate</meta>
