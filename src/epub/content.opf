@@ -40,7 +40,7 @@
 		<dc:description id="description">A collection of Kate Chopin’s short stories, ordered by date of writing.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/kate-chopin"&gt;Kate Chopin’s&lt;/a&gt; most famous work nowadays is the novel &lt;a href="https://standardebooks.org/ebooks/kate-chopin/the-awakening"&gt;&lt;i&gt;The Awakening&lt;/i&gt;&lt;/a&gt;, but at the turn of the last century she was more famous for her short fiction, published in American magazines like the &lt;i&gt;&lt;abbr&gt;St.&lt;/abbr&gt; Louis Post-Dispatch&lt;/i&gt;, &lt;i&gt;Youth’s Companion&lt;/i&gt;, and &lt;i&gt;Vogue&lt;/i&gt;. A prolific writer, over the course of fourteen years she penned nearly a hundred stories, although many didn’t see publication until a new collection was released in 1963. The stories focus on life in 1890s Louisiana, a setting that she was living in as a resident of New Orleans and Natchitoches. They’re told from many different points of view, but always with empathy for the struggles, both big and small, of the protagonists.&lt;/p&gt;
-			&lt;p&gt;This collection contains the forty-nine short stories of Kate Chopin verified to be in the US public domain, including “Désirée’s Baby” and “The Dream of an Hour.” They’re presented in the order they were originally written.&lt;/p&gt;
+			&lt;p&gt;This collection contains the forty-nine short stories of Kate Chopin verified to be in the U.S. public domain, including “Désirée’s Baby” and “The Dream of an Hour.” They’re presented in the order they were originally written.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<!-- Bayou Folk -->
