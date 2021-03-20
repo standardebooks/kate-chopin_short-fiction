@@ -79,8 +79,8 @@
 		<dc:contributor id="transcriber-2">David Widger</dc:contributor>
 		<meta property="file-as" refines="#transcriber-2">Widger, David</meta>
 		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
-		<dc:contributor id="transcriber-3">Marc D'Hooghe</dc:contributor>
-		<meta property="file-as" refines="#transcriber-3">D'Hooghe, Marc</meta>
+		<dc:contributor id="transcriber-3">Marc D’Hooghe</dc:contributor>
+		<meta property="file-as" refines="#transcriber-3">D’Hooghe, Marc</meta>
 		<meta property="role" refines="#transcriber-3" scheme="marc:relators">trc</meta>
 		<dc:contributor id="producer-1">Robin Whittleton</dc:contributor>
 		<meta property="file-as" refines="#producer-1">Whittleton, Robin</meta>
