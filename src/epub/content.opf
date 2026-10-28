@@ -58,7 +58,7 @@
 		<dc:source>https://catalog.hathitrust.org/Record/006057384</dc:source>
 		<!-- A Scrap and a Sketch -->
 		<dc:source>https://catalog.hathitrust.org/Record/012304530</dc:source>
-		<meta property="schema:wordCount">131889</meta>
+		<meta property="schema:wordCount">131888</meta>
 		<meta property="schema:educationalLevel">71.55</meta>
 		<link href="https://en.wikipedia.org/wiki/Kate_Chopin#Works" rel="schema:sameAs"/>
 		<meta id="vcs-repository" property="schema:workExample">schema:workExample</meta>
